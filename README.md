@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Rebecka 👋
 
-<!--
-**ReGalala/ReGalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Engineer graduating in June 2026 in Software Engineering & Management.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies, solving problems, and building systems that combine software, AI and real-world integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current focus:
+- Web development (Vue, Node, Django)
+- AI & automation (exploring ML pipelines)
+- IoT & system integration (MQTT, Arduino)
+- Docker & Kubernetes
+
+Projects you’ll find here:
+- HarmonAI – AI-based chord analysis from audio
+- Peekaboo – Smart mirror (IoT)
+- Webmall – Platform for creative sellers
+
+Always curious, adaptable, and happy to dive into new challenges.
